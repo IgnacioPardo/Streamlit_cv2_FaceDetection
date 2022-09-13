@@ -1,6 +1,6 @@
 Jinja2==3.1.2
 numpy==1.22.2
-opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
 requests==2.27.1
 streamlit==1.12.2
 streamlit-lottie==0.0.3
